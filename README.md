@@ -17,6 +17,10 @@ It supports real-time streaming chat, document uploads, retrieval-augmented gene
 * Simple FastAPI-based web interface
 
 ---
+## 🚀 Live Demo
+
+The project is deployed using Streamlit and can be accessed through the live deployment link.
+https://astragpt-ufna.onrender.com
 
 ## Project Overview
 

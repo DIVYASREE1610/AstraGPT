@@ -22,6 +22,9 @@ It supports real-time streaming chat, document uploads, retrieval-augmented gene
 The project is deployed using Streamlit and can be accessed through the live deployment link.
 https://astragpt-ufna.onrender.com
 
+> ⚠️ Note: The app may take a few seconds to load initially because it is hosted on a free Render service.
+
+
 ## Project Overview
 
 This project combines:
